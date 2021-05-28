@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 Software Developer at @SEEK-Jobs.  
+- 💻 Software Developer at [SEEK](https://www.seek.com.au/).  
 - 💭 Interested in Web Development, Backend Systems and Internet of Things.  
 - 🎓 Master of Engineering - Electrical Graduate. 
 
